@@ -1,0 +1,1 @@
+hola Publicador<?php /**PATH C:\xampp\htdocs\web_mspa\resources\views/PlataformaPub/inicio.blade.php ENDPATH**/ ?>
